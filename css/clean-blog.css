@@ -3,7 +3,7 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-body {
+ body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
   color: #333333;
@@ -18,12 +18,13 @@ p a {
 h1,
 h2,
 h3,
-h4,
+
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+h4{color:gray;}
 a {
   color: #333333;
 }
@@ -407,7 +408,7 @@ body {
 }
 
 .panel-body{
-    color: #777777;
+  color: #777777;
   font-style: italic;
 }
 
